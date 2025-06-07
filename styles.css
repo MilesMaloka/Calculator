@@ -14,12 +14,21 @@ body {
     background-color: #333333;
 
 }
+h1 {
+    color: #ff952c;
+    text-align: center;
+    margin-bottom: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 2.5em;
+    text-shadow: 2px 2px 4px rgba(44, 43, 43, 0.5);
+}
 
 .calculator {
     background-color: #333;
     border-radius: 10px;
     padding: 20px;
     box-shadow: 0 0 10px rgba(0,0,0,0.2);
+    
 }
 
 .display {
@@ -63,3 +72,4 @@ button:hover {
 .operator:hover {
     background-color: #ffaa33;
 }
+
