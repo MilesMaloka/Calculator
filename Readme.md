@@ -1,6 +1,9 @@
 # Calculator
 
 A simple calculator application developed as part of the FNB Academy Projects. This project demonstrates basic arithmetic operations and user interface design.
+## Review
+
+Link: https://calculatorbymiles.netlify.app/
 
 ## Features
 
@@ -19,7 +22,7 @@ A simple calculator application developed as part of the FNB Academy Projects. T
     cd calculator
     ```
 3. **Run the application:**
-    - Follow the instructions in the project for your specific environment (e.g., open `index.html` for web, run `main.py` for Python).
+    - open and run `index.html`.
 
 ## Technologies Used
 
@@ -28,4 +31,5 @@ A simple calculator application developed as part of the FNB Academy Projects. T
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request.
+
 
