@@ -1,7 +1,8 @@
 # Calculator
 
 A simple calculator application developed as part of the FNB Academy Projects. This project demonstrates basic arithmetic operations and user interface design.
-## Review
+
+## Preview
 
 Link: https://calculatorbymiles.netlify.app/
 
